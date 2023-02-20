@@ -1,0 +1,9 @@
+#circle-img {
+    position: relative;
+}
+
+#circle-img img {
+    position: absolute;
+    top: -50px;
+    clear: both;
+}
